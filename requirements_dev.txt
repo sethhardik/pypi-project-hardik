@@ -7,6 +7,6 @@ py-youtube==1.1.7
 pytest==7.2.1
 tox==4.3.5
 black==22.12.0
-flake8==6.0.0
+flake8==5.0.4
 mypy==0.991
 -e .
